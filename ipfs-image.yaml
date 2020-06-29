@@ -1,0 +1,5 @@
+version: "3.7"
+
+services:
+  ipfs:
+    image: clusterlabs/go-ipfs:v0.5.1
