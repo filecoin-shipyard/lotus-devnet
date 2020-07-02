@@ -1,11 +1,6 @@
 version: "3.7"
 
 services:
-  ipfs:
-    ports:
-      - 5001:5001
-      - 8080:8080
-
   lotus:
     image: textile/lotus-devnet:v0.4.0
     ports:
