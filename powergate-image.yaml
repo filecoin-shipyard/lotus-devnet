@@ -1,5 +1,0 @@
-version: "3.7"
-
-services:
-  powergate:
-    image: textile/powergate:v0.0.1-beta.10
