@@ -11,5 +11,4 @@ services:
       - TEXLOTUSDEVNET_IPFSADDR=/dns4/ipfs/tcp/5001
   ipfs:
     ports:
-      - 6001:5001
       - 7070:8080
