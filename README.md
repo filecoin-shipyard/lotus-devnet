@@ -1,8 +1,14 @@
-## Lotus Setup
+# Lotus Setup
+
+## Status
+
+This repository is in a **frozen** state. It is not being maintained or kept in sync with the tools and libraries it depends on. Even though this work on this repository has been **shelved**, anyone interested in updating or maintaining this library should express their interest on one Filecoin community conversation mediums: <https://github.com/filecoin-project/community#join-the-community>.
+
+---
 
 A Docker compose config for [Filecoin Network Inspector]() tutorial.
 
-### License
+## License
 
 This is dual-licensed under Apache 2.0 and MIT terms:
 
